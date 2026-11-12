@@ -5,7 +5,6 @@ Ce dossier contient les deux parties nécessaires au laboratoire 8 :
 - `client/` : application Angular Employee déjà configurée pour communiquer avec GraphQL;
 - `server/` : application Spring Boot/Kotlin + MongoDB à compléter.
 
-Le code source fourni correspond au code de départ du laboratoire. La solution du livrable n'est pas incluse.
 
 ## 1. Démarrer MongoDB
 
